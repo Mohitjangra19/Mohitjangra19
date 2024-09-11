@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development 
 - 🌱 I’m currently learning about angularjs framework 
 - 💞️ I’m looking to collaborate on open source Frontend projects 
-- 📫 How to reach me, got and email me on mjsg46000@gmail.com 
+- 📫 How to reach me, go and email me on mjsg46000@gmail.com 
 - ⚡ Fun fact: I'm  spiderman 
 
 <!---
